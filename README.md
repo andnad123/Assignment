@@ -19,4 +19,4 @@ Editing and arranging panels using Inkscape.
 - `branch3`: Contains the work specific to Task 3.
 - `branch4`: Contains the work specific to Task 4.
 ## Commit History
-- Clear and descriptive commit messages have been used to reflect the changes made in each task.
+- Clear and descriptive commit messages have been used to reflect the changes made.
